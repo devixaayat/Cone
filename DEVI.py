@@ -53,7 +53,7 @@ except ModuleNotFoundError:
 
     os.system('pip install requests bs4 futures==2 > /dev/null')
 
-    os.system('python Ms.py')
+    os.system('python DEVI.py')
 
 #####____Auto-Create-Setup____#####
 
@@ -97,15 +97,12 @@ class OLD_CLONER:
         self.gen = []
     
     def banner(self):
-        os.system("clear")  
-        print("\033[1;32m$$$$$$$\                      $$\ ")
-        print("\033[1;32m $$  __$$\                     \_")
-        print("\033[1;32m $$ |  $$ | $$$$$$\ $$\    $$\ $$\ ")
-        print("\033[1;32m $$ |  $$ |$$  __$$\\$$\  $$  |$$ |")
-        print("\033[1;32m $$ |  $$ |$$$$$$$$ |\$$\$$  / $$ |")
-        print("\033[1;32m $$ |  $$ |$$   ____| \$$$  /  $$ |")
-        print("\033[1;32m $$$$$$$  |\$$$$$$$\   \$  /   $$ |")
-        print("\033[1;32m \_______/  \_______|   \_/    \__|")                                                                                                                                 
+        os.system("clear")    
+        print("\033[1;32m ██████  ███████ ██    ██ ██ ")
+        print("\033[1;32m ██   ██ ██      ██    ██ ██ ")
+        print("\033[1;32m ██   ██ █████   ██    ██ ██ ")
+        print("\033[1;32m ██   ██ ██       ██  ██  ██ ")
+        print("\033[1;32m ██████  ███████   ████   ██  ")                          
         print("\033[1;32m 
         print("\033[1;37m------------------------------------------------")
         print("\033[1;33m[+]\033[1;35mAUTHOR  : MR DEVI")
